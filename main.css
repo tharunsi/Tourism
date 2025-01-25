@@ -82,9 +82,7 @@
     
   }
 
-  .main-event{
-    margin-top: 100vh;
-  }
+  
 
   .cards-container-1 {
     display: flex;
@@ -216,6 +214,27 @@
     margin-bottom: 25px;
     
     
+  }
+
+  .explore-main-kovai{
+    color:#ffffff;
+    background-color: #ff007f;
+    padding:  16px;
+    display:inline-block;
+    border-radius: 25px;
+    position: relative;
+    margin-left: 650px;  
+    margin-top: 400px;
+    margin-bottom: 200px;
+     
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  .explore-main-kovai a{
+    color:#ffffff;
   }
   
   @media (max-width: 768px) {
