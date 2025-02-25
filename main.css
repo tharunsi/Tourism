@@ -236,19 +236,5 @@
   .explore-main-kovai a{
     color:#ffffff;
   }
-  
-  @media (max-width: 768px) {
-    .navbar {
-      flex-wrap: wrap; 
-      justify-content: center; 
-    }
-  
-    .nav-links {
-      gap: 10px; 
-    }
-  
-    .logo {
-      margin-bottom: 10px; 
-    }
-  }
+
   
