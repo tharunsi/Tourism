@@ -237,4 +237,8 @@
     color:#ffffff;
   }
 
-  
+@media (max-width: 768px) {
+  .explore-main-kovai {
+    display: none;
+  }
+}
