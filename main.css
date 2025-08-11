@@ -238,14 +238,9 @@
   }
 
 @media (max-width: 768px) {
-  .explore-main-kovai {
+  .container-main {
     display: none !important; /* Hides the button */
   }
 }
-@media (max-width: 768px) {
-  .text {
-    animation: none !important; /* Stops typing animation */
-    border-right: none !important; /* Removes cursor line */
-  }
-}
+
 
