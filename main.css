@@ -238,7 +238,7 @@
   }
 
 @media (max-width: 768px) {
-  .explore-main-kovai {
+  .explore-main-kovai .typing-container .text{
     display: none;
   }
 }
